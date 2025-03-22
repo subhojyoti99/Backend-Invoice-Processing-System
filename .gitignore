@@ -1,0 +1,9 @@
+invoice_frontend/
+output.svg/
+testing/
+uploads/
+venv/
+.env
+invoice-processing-system-firebase-adminsdk-fbsvc-5f0705eeec.json
+__pycache__/
+invoices/
